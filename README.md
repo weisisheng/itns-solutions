@@ -1,6 +1,6 @@
 # New Statistics - Companion Book
 
-This website is an interactive companion book for [Introduction to the New Statistics](https://www.routledgetextbooks.com/textbooks/9781138825529/) It offers 
+This website is an interactive companion book for [Introduction to the New Statistics](https://www.routledgetextbooks.com/textbooks/9781138825529/). It offers 
 
 + interactive quizzes with solutions
 + interactive questions and answers for the in-chapter-exercises
