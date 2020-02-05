@@ -1,0 +1,10 @@
+# QR Codes of Exercises
+
+## Chapter 1
+
+|     |     |     | 
+|:-----:|:-----:|:-----:|
+|<br />![Glossary Accordion](img/QR/chap01-glossary-accordion-min.png "QR Code for glossary accordion exercise in Chapter 1") <br /><br />|<br /> ![Glossary Drag Words](img/QR/chap01-glossary-drag-words-min.png "QR Code for glossary drag words exercise in Chapter 1") <br /><br />|<br /> ![Glossary Memory Game](img/QR/chap01-glossary-memory-game-min.png "QR Code for glossary memory game exercise in Chapter 1") <br /><br />| 
+|[Glossary: Accordion](#chap01-glossary-accordion)|[Glossary: Drag words](#chap01-glossary-drag-words)|[Glossary: Memory Game](#chap01-glossary-memory-game)|
+|<br /> ![Research Process](img/QR/chap01-research-process-drag-n-drop-min.png "QR Code for research process drag and drop exercise in Chapter 1") <br /><br />|<br /> ![Glossary Accordion](img/QR/chap01-sketch-research-form-wizard-min.png "QR Code for sketch reserach form wizard exercise in Chapter 1") <br /><br />||<br />
+|[Drag & Drop: Research Process](#chap01-research-process-drag-n-drop)|[Form Wizard: Sketch Research](#chap01-sketch-research-form-wizard)||
