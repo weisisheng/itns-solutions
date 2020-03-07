@@ -1,13 +1,14 @@
-# New Statistics - Companion Book
+# itns-solutions
 
-This website is an interactive companion book for [Introduction to the New Statistics](https://www.routledgetextbooks.com/textbooks/9781138825529/) (abbreviated <i>itns</i>). It offers 
+This website [itns-solutions](https://bookdown.org/pbaumgartner/itns-solutions/) is an interactive companion book for [Introduction to the New Statistics](https://www.routledgetextbooks.com/textbooks/9781138825529/) (abbreviated <i>itns</i>). It offers 
 
 + interactive quizzes with solutions
-+ interactive questions and answers for the in-chapter-exercises
-+ an R tutorial for the end-of-chapter exercises 
++ R tutorials for the end-of-chapter exercises 
 
 
-Published so far are chapters:
+Published so far are exercises for chapter 1-4: https://bookdown.org/pbaumgartner/itns-solutions/
+
+Other chapters with R tutorials are already prepared but not yet included in the bookdown version
 
 * https://rpubs.com/pbaumgartner/itns-03
 * https://rpubs.com/pbaumgartner/itns-04
