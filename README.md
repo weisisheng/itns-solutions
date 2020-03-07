@@ -5,10 +5,9 @@ This website [itns-solutions](https://bookdown.org/pbaumgartner/itns-solutions/)
 + interactive quizzes with solutions
 + R tutorials for the end-of-chapter exercises 
 
-
 Published so far are exercises for chapter 1-4: https://bookdown.org/pbaumgartner/itns-solutions/
 
-Other chapters with R tutorials are already prepared but not yet included in the bookdown version
+Chapter 3 and 4 are already published as a stand alone version
 
 * https://rpubs.com/pbaumgartner/itns-03
 * https://rpubs.com/pbaumgartner/itns-04
