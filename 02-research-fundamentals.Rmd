@@ -14,24 +14,41 @@
 
 <iframe src="https://peter.baumgartner.name/wp-admin/admin-ajax.php?action=h5p_embed&id=59" width="960" height="621" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://peter.baumgartner.name/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
 
+### Drag words Part I {#chap02-glossary-drag-words-part1}
+
+<iframe src="https://peter.baumgartner.name/wp-admin/admin-ajax.php?action=h5p_embed&id=75" width="960" height="1" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://peter.baumgartner.name/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
+
+### Drag words Part II {#chap02-glossary-drag-words-part2}
+
+<iframe src="https://peter.baumgartner.name/wp-admin/admin-ajax.php?action=h5p_embed&id=76" width="960" height="1043" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://peter.baumgartner.name/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
+
+
+### Flash Cards {#chap02-glossary-flash-cards}
+
+<iframe src="https://peter.baumgartner.name/wp-admin/admin-ajax.php?action=h5p_embed&id=73" width="960" height="1023" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://peter.baumgartner.name/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
+
+
 ## Fundamental Research Concepts
 
-### Sample and Population {#chap02-sample-and-population}
+### Sample and Population (Find Hotspots) {#chap02-sample-and-population-find-hotspots}
 
 <iframe src="https://peter.baumgartner.name/wp-admin/admin-ajax.php?action=h5p_embed&id=63" width="960" height="1013" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://peter.baumgartner.name/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
 
-### DFY: Don't fool yourself {#chap02-DFY}
+### DFY: Don't fool yourself (Drag Words) {#chap02-DFY-drag-and-drop}
 
 <iframe src="https://peter.baumgartner.name/wp-admin/admin-ajax.php?action=h5p_embed&id=72" width="960" height="1313" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://peter.baumgartner.name/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
 
-### Measurement {#chap02-measurement}
+### Measurement (Multiple Choice) {#chap02-measurement-multiple-choice}
 
 <iframe src="https://peter.baumgartner.name/wp-admin/admin-ajax.php?action=h5p_embed&id=66" width="960" height="363" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://peter.baumgartner.name/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
 
-### Definitions of Important Concepts {#chap02-definitions}
+### Important Concepts I (Dropdown) {#chap02-important-concepts1-advanced-dropdown}
 
-<iframe src="https://peter.baumgartner.name/wp-admin/admin-ajax.php?action=h5p_embed&id=64" width="960" height="2074" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://peter.baumgartner.name/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
+<iframe src="https://peter.baumgartner.name/wp-admin/admin-ajax.php?action=h5p_embed&id=64" width="960" height="1565" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://peter.baumgartner.name/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
 
+### Important Concepts II (Fill in the Blanks) {#chap02-important-concepts2-advanced-fill-in-the-blanks}
+
+<iframe src="https://peter.baumgartner.name/wp-admin/admin-ajax.php?action=h5p_embed&id=77" width="960" height="1537" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://peter.baumgartner.name/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
 
 ## Quizzes and Assessment
 

@@ -1,5 +1,7 @@
 # Asking and Answering Research Questions {#research-questions}
 
+If you prefer to use for the exercises your phone or tablet, [scan the associated QR code](qr-codes-of-exercises.html#chapter-1).
+
 ## Interactive Video
 
 ### Research questions {#chap01-video-research-questions}
@@ -15,8 +17,6 @@
 <iframe src="https://peter.baumgartner.name/wp-admin/admin-ajax.php?action=h5p_embed&id=51" width="958" height="665" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://peter.baumgartner.name/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
 
 ## Glossary
-
-The first chapter introduces 15 statistical terms. I have prepared three different types of exercises to learn, revise and memorize those concepts. If you prefer to use for the exercises your phone or tablet, [scan the associated QR code](qr-codes-of-exercises.html#chapter-1).
 
 ### Accordion {#chap01-glossary-accordion}
 

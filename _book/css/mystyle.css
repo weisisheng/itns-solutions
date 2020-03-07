@@ -1,0 +1,59 @@
+/* From style.css - where this file comes from? */
+p.caption {
+  color: #777;
+  margin-top: 10px;
+}
+p code {
+  white-space: inherit;
+}
+pre {
+  word-break: normal;
+  word-wrap: normal;
+}
+pre code {
+  white-space: inherit;
+}
+
+/***********************************************/
+/* My changes */
+
+blockquote {
+    padding: 10px 20px;
+    margin: 0 0 20px;
+    font-size: 14px;
+    font-style: italic;
+    border-left: 5px solid #1F9DE5}
+
+.right {
+    float: right;
+    width: 25%;
+}
+
+/************************
+Change width of sidebar
+see: https://stackoverflow.com/questions/51805885/r-bookdown-customize-width-of-toc-sidebar
+***********************/
+
+.book .book-summary {
+  width: 450px;
+  position:absolute;
+  top:0;
+  left:-450px;
+}
+
+.book.with-summary .book-header.fixed {
+    left: 450px;
+}
+
+.book.with-summary .book-body  {
+    left: 450px;
+}
+
+/************************
+Change width of text
+see: https://stackoverflow.com/questions/47065105/custom-css-to-change-bookdown-page-width
+***********************/
+
+.book .book-body .page-wrapper .page-inner {
+  max-width: 960px !important;
+}
