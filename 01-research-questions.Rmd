@@ -80,12 +80,15 @@ Integrating this exercise into this books destroys the internal linking. It seem
 
 ## Meta-Analysis
 
-### Explore Forest Plot (Info Hotspots) {#chap01-forest-plot-info-hotspots}
+### Explore Forest Plot (Image Hotspots) {#chap01-forest-plot-info-hotspots}
 
-<iframe src="https://peter.baumgartner.name/wp-admin/admin-ajax.php?action=h5p_embed&id=33" width="958" height="497" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://peter.baumgartner.name/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
+<center>**Click at the points with the question mark to learn what they signify**</center>
+<iframe src="https://peter.baumgartner.name/wp-admin/admin-ajax.php?action=h5p_embed&id=26" width="960" height="434" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://peter.baumgartner.name/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
 
-### Find Point Estimates in Forest Plot (Find Hotspots) {#chap01-find-point-estimates-find-hotspots}
 
+### Point Estimates in Forest Plot (Find Multiple Hotspots) {#chap01-find-point-estimates-find-hotspots}
+
+<center>**Find the locations of all point estimates by clicking on the correct places of the image.**</center>
 <iframe src="https://peter.baumgartner.name/wp-admin/admin-ajax.php?action=h5p_embed&id=27" width="958" height="455" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://peter.baumgartner.name/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
 
 ## Reporting (Accordion) {#chap01-reporting-accordion}
@@ -94,11 +97,11 @@ Integrating this exercise into this books destroys the internal linking. It seem
 
 ## Quizzes and Assessment
 
-### Quiz 1 {#chap01-quiz-1}
+### Quiz 1 (Question Set) {#chap01-quiz-1}
 
 <iframe src="https://peter.baumgartner.name/wp-admin/admin-ajax.php?action=h5p_embed&id=12" width="958" height="393" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://peter.baumgartner.name/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
 
-### Quiz 2 {#chap01-quiz-2}
+### Quiz 2 (Question Set) {#chap01-quiz-2}
 
 <iframe src="https://peter.baumgartner.name/wp-admin/admin-ajax.php?action=h5p_embed&id=25" width="958" height="362" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://peter.baumgartner.name/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
 
@@ -107,7 +110,8 @@ Integrating this exercise into this books destroys the internal linking. It seem
 <iframe src="https://peter.baumgartner.name/wp-admin/admin-ajax.php?action=h5p_embed&id=79" width="960" height="301" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://peter.baumgartner.name/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
 
 
-### Assessment {#chap01-assessment}
+### Assessment (Question Set) {#chap01-assessment}
 
-<iframe src="https://peter.baumgartner.name/wp-admin/admin-ajax.php?action=h5p_embed&id=45" width="958" height="755" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://peter.baumgartner.name/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
+<iframe src="https://peter.baumgartner.name/wp-admin/admin-ajax.php?action=h5p_embed&id=81" width="960" height="319" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://peter.baumgartner.name/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
+
 
