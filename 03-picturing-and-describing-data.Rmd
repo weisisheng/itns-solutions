@@ -1,4 +1,58 @@
-# Picturing & Describing Data
+# Picturing & Describing Data: Exercises {#chap03-picturing-and-describing-data}
+
+## Interactive Video {#chap03-video-research-fundamentals}
+
+
+## Glossary
+
+### Accordion {#chap03-glossary-accordion}
+
+<iframe src="https://peter.baumgartner.name/wp-admin/admin-ajax.php?action=h5p_embed&id=93" width="960" height="1849" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://peter.baumgartner.name/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
+
+
+
+### Dialog Cards {#chap03-glossary-dialog-cards}
+
+
+
+### Drag words Part I {#chap03-glossary-drag-words-part1}
+
+
+
+### Drag words Part II {#chap03-glossary-drag-words-part2}
+
+
+
+### Flash Cards {#chap03-glossary-flash-cards}
+
+
+
+### Fill in the Blanks {#chap03-glossary-fill-in-the-blanks}
+
+
+
+## Reporting (Advanced Blank) {#chap03-reporting-advanced-blanks}
+
+
+
+## Quizzes and Assessment
+
+### Quiz 1 (Question Set) {#chap03-quiz-1}
+
+
+### Quiz 2 (Question Set) {#chap03-quiz-2}
+
+
+
+### Quiz 3 (Question Set) {#chap03-quiz-3}
+
+
+
+### Take-Home Messages (Summary) {#chap03-take-home}
+
+
+### Assessment (Question Set) {#chap03-assessment}
+
 
 ## End-of-Chapter Exercises
 
@@ -587,6 +641,5 @@ We have successfully converted the numeric column into a categorial variable wit
 ```{r}
 mean(college1$Gender_Code)
 ```
-
 
 

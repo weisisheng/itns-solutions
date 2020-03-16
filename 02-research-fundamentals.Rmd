@@ -27,15 +27,19 @@
 
 <iframe src="https://peter.baumgartner.name/wp-admin/admin-ajax.php?action=h5p_embed&id=73" width="960" height="1023" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://peter.baumgartner.name/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
 
+### Fill in the Blanks {#chap02-glossary-fill-in-the-blanks}
+
+<iframe src="https://peter.baumgartner.name/wp-admin/admin-ajax.php?action=h5p_embed&id=74" width="960" height="1480" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://peter.baumgartner.name/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
+
 
 ## Fundamental Research Concepts
 
-### Sample and Population (Drag & Drop) {#chap02-sample-and-population-find-hotspots}
+### Sample and Population (Drag & Drop) {#chap02-sample-and-population-drag-and-drop}
 
 <iframe src="https://peter.baumgartner.name/wp-admin/admin-ajax.php?action=h5p_embed&id=82" width="960" height="947" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://peter.baumgartner.name/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
 
 
-### DFY: Don't fool yourself (Drag Words) {#chap02-DFY-drag-and-drop}
+### DFY: Don't fool yourself (Drag Words) {#chap02-DFY-drag-words}
 
 <iframe src="https://peter.baumgartner.name/wp-admin/admin-ajax.php?action=h5p_embed&id=72" width="960" height="1313" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://peter.baumgartner.name/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
 
@@ -50,30 +54,30 @@
 <iframe src="https://peter.baumgartner.name/wp-admin/admin-ajax.php?action=h5p_embed&id=66" width="960" height="363" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://peter.baumgartner.name/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
 
 
-### Important Concepts I (Dropdown) {#chap02-important-concepts1-advanced-dropdown}
+### Important Concepts I (Advanced Dropdown) {#chap02-important-concepts1-advanced-dropdown}
 
 <iframe src="https://peter.baumgartner.name/wp-admin/admin-ajax.php?action=h5p_embed&id=64" width="960" height="1565" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://peter.baumgartner.name/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
 
-### Important Concepts II (Fill in the Blanks) {#chap02-important-concepts2-advanced-fill-in-the-blanks}
+### Important Concepts II (Advanced Blank) {#chap02-important-concepts2-advanced-blanks}
 
 <iframe src="https://peter.baumgartner.name/wp-admin/admin-ajax.php?action=h5p_embed&id=77" width="960" height="1537" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://peter.baumgartner.name/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
 
-### Reporting (Advanced Fill the Blank) {#chap02-reporting-advanced-fill-in-the-blanks}
+## Reporting (Advanced Blank) {#chap02-reporting-advanced-blanks}
 
 <iframe src="https://peter.baumgartner.name/wp-admin/admin-ajax.php?action=h5p_embed&id=78" width="960" height="1" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://peter.baumgartner.name/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
 
 
 ## Quizzes and Assessment
 
-### Quiz 1 {#chap02-quiz-1}
+### Quiz 1 (Question Set) {#chap02-quiz-1}
 
 <iframe src="https://peter.baumgartner.name/wp-admin/admin-ajax.php?action=h5p_embed&id=69" width="960" height="565" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://peter.baumgartner.name/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
 
-### Quiz 2 {#chap02-quiz-2}
+### Quiz 2 (Question Set) {#chap02-quiz-2}
 
 <iframe src="https://peter.baumgartner.name/wp-admin/admin-ajax.php?action=h5p_embed&id=70" width="960" height="565" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://peter.baumgartner.name/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
 
-### Quiz 3 {#chap02-quiz-3}
+### Quiz 3 (Question Set) {#chap02-quiz-3}
 
 <iframe src="https://peter.baumgartner.name/wp-admin/admin-ajax.php?action=h5p_embed&id=71" width="960" height="565" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://peter.baumgartner.name/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
 
