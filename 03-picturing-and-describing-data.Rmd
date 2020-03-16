@@ -1,4 +1,4 @@
-# Picturing & Describing Data: Exercises {#chap03-picturing-and-describing-data}
+# Picturing & Describing Data: Exercises
 
 ## Interactive Video {#chap03-video-research-fundamentals}
 
