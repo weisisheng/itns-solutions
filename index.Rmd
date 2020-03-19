@@ -37,18 +37,98 @@ The second component of this companion book to _itns_ is a demonstration of how 
 
 I assume some basic knowledge with the R language as I will not explain installation procedures and basic R commands. I am using [RStudio](https://rstudio.com/products/rstudio/download/), the prevalent free integrated development environment (IDE), and occasionally I mention RStudio specifics. But these hints are rare and not essential to understand and to replicate my suggested R procedures.
 
-I will conclude the preface with a warning: I was intrigued by _itns_ as a new generation of a statistical textbook. Criticizing the standard null hypothesis significance testing (NHST) by using the estimation approach based on confidence intervals (CIs), meta-analysis, and integrating Open Science met my thinking and preferences.  But the truth is: I am neither a statistical expert nor an R wizard! My professional background is in instructional design and technology-enhanced learning (TEL). I am using the challenge to write this book as my particular vehicle to learn and practice statistical analysis and the R programming language. In this sense, I am just another learner applying the elaboration technique so splendid and convincing explained in "_Make it stick: The science of successful learning_" [@brown_make_2014].
+I will conclude this section with a warning: I was intrigued by _itns_ as a new generation of a statistical textbook. Criticizing the standard null hypothesis significance testing (NHST) by using the estimation approach based on confidence intervals (CIs), meta-analysis, and integrating Open Science met my thinking and preferences.  But the truth is: I am neither a statistical expert nor an R wizard! My professional background is in instructional design and technology-enhanced learning (TEL). I am using the challenge to write this book as my particular vehicle to learn and practice statistical analysis and the R programming language. In this sense, I am just another learner applying the elaboration technique so splendid and convincing explained in "_Make it stick: The science of successful learning_" [@brown_make_2014].
+
+## Educational considerations {-}
+
+In _itns-solutions_, I have structured the sequence of exercises following three pedagogical concepts:
+
++ **Learning Mode:** From more comfortable to more challenging learning modes.  I distinguish grosso modo three different learning respectively teaching types. I cannot go into details here but (see for more information: ) summarized they are:
+
+    - **Learning I / Instruction:** Students acquire static knowledge from the presented content via reading, listening, and watching. The main cognitive task in this mode is memorizing and retrieving knowledge.
+    
+    - **Learning II / Interaction:** Students acquire dynamic knowledge via exercises where they have to apply their static knowledge. To facilitate and stabilize their education, they get feedback on the results of their practice. The main cognitive task in Learning II is applying & analyzing specific situations.
+
+    - **Learning III / Construction:** Students create their knowledge by adapting and modifying learned procedures for challenging situations. Here the main cognitive task is incorporating skills into their body (performance) and insights into their personal experiences and mastering life.
+
++ **Multiple Represenmtations:** In _itns-solutions_, I am applying the concept of _multiple representations_: The same content is learned/experienced with several distinctive exercises. This approach is not entirely redundant as each activity addresses the brain capacity in different ways. Additionally, I sorted the same questions often differently. To give an example: I am using the same text to fill in the blanks from a prepared list of words, or via a dropdown menu (both are Learning II) and to write the correct concept without help (Learning III).
+
++ **Self-Organized Learner:** I developed all exercises with self-organized learners in mind. Learners should solve the task to their likening. I chose the educational settings toward the highest possible freedom supported by the software (H5P content type). I will explain the details of my decisions under the subheading H5P Content Types. But to summarize here, learners can choose the order of the exercises, repeat them as often as they want, and even view the solution before they start with the activity.  The idea behind this strategy of maximizing educational freedom is that adult self-learners don't want to fool themselves and are to respect in their self-organizing learning endeavor. There is one exception to the general rule of educational liberty: All activities under the sections _Assessment_ have somewhat limited freedom so that learners could get some overall feedback about their performance.
+
+## Types of Exercises {-}
+
+
+H5P is a potent tool with many different types of exercises ("content types" in H5P parlance). At the moment of this writing, I have uploaded 47 of these modules. But not every content type is appropriate for _itns-solution_.
+
+
+The following table lists the 20 used content type, their functionality, and where they appear in the book (chapter sections and chapters).
+
+| Content Type             | Functionality                                       | Learning | Video | Glossary | Bulk | Recap | Assessment | R |
+|--------------------------|-----------------------------------------------------|:--------:|:-----:|:--------:|:----:|:-----:|:----------:|:-:|
+| Accordion                | Vertically stacked expandable items                 |     I    |       |     X    |      |       |            |   |
+| Advanced Fill the Blanks | Missing word (dropdown & blanks)                    |  II,III  |       |     X    |   X  |       |            |   |
+| Course Presentation      | Interactive slides                                  |  II,III  |       |          |      |       |      X     |   |
+| Dialog Cards             | Text-based turning cards                            |     I    |       |     X    |      |       |            |   |
+| Documentation Tool       | Form wizard with text export                        |    III   |       |          |   X  |       |            |   |
+| Drag & Drop              | Drag & Drop with images                             |    II    |   X   |          |   X  |       |            |   |
+| Drag the Words           | Drag & Drop with text                               |    II    |   X   |     X    |   X  |       |      X     |   |
+| Fill in the Blanks       | Missing word (blanks)                               |    III   |   X   |          |      |       |      X     |   |
+| Find Multiple Hotspots   | Many hotspots to find                               |    II    |   X   |          |   X  |       |            |   |
+| Flash Cards              | Text and/or image based flash cards with repetition |    II    |       |     X    |      |       |            |   |
+| Iframe Embedder          | Embed URL                                           |  II,III  |       |          |      |       |            | X |
+| Image Hotspots           | Explore image hotspots                              |     I    |   X   |          |   X  |       |            |   |
+| Image Sequencing         | Sort images                                         |    II    |       |          |   X  |       |            |   |
+| Interactive Video        | Videos with educational interactions                |   I,II   |   X   |          |      |       |            |   |
+| Mark the Words           | Highlight words in a text                           |    II    |   X   |          |   X  |       |      X     |   |
+| Memory Game              | Image pairing                                       |    II    |       |     X    |      |       |            |   |
+| Multiple Choice          | Single & multiple-choice questions                  |    II    |   X   |          |   X  |       |      X     |   |
+| Question Set             | Sequence of various question types (Quiz)           |  II,III  |   X   |          |      |       |      X     |   |
+| Summary                  | Choose correct statements                           |    II    |   X   |          |      |   X   |            |   |
+| True/False Question      | True/false questions                                |    II    |   X   |          |   X  |       |      X     |   |
+
+
+
 
 <!-- TODO Preface: I need to explain the different formatting styles to support pedagogical goals of the book -->
 
 <!-- TODO Preface: It may also be useful to explain how to use the different types of exercises -->
 
+<!-- TODO Preface: Explanation of AKT and Image of three Learning Types -->
+
 <!-- TODO Preface: Here, I need to include how to report errors or to suggest improvements and a section "acknowledgment". -->
 
+## Structure of chapter exercises {-}
+
+I have grouped all exercises into a recurring structure of sections:
+
++ **Video:** Each chapter starts with one or several interactive videos. I have taken the videos from the [Routledge website](https://routledgetextbooks.com/textbooks/9781138825529/student.php).  The video exercises support Learning I (watching the video explanations) but also Learning II (interactive activities).
+
++ **Glossary:** To learn the glossary entries, I have provided several exercises ("multiple representations"). Every glossary section follows the same pattern of exercise types:
+
+    - Learning I: Accordion, Dialog Cards
+    - Learning II: Drag Words, Flash Cards, Advanced Fill in the Blanks (dropdown menu)
+    - Learning III: (Advanced) Fill in the Blanks (without help)
+
++ **Bulk:** Unter this heading, I summarize activities to the central part of the chapter covering the specific content parts students have to learn respectively to acquire. There is no fixed structure as the appropriate exercises depend on the subject presented. But generally, this part contains every conceivable suitable task. Instead of using the generic name "Bulk", I generated different names for this section inspired by chapter subject and/or title.
+
++ **Recap:** Every chapter has a section on reporting and a list of take-home messages. Students may recapitulate the central concepts of each chapter with the _Summary_-task (Learning II). The exercises for the reporting sections vary between the content types of _Accordion_ (Learning I), _Summary_ (Learning II), and _Advanced Fill in the Blanks_ or _Documentation Tool_  (Learning III). 
+
++ **Assessment:** Exercises under the _Assessment_ heading are somewhat different. They consist (similar to _Interactive Video_) of a pool of varying content types organized either by the content type _Question set_ (quizzes) or _Course Presentation_. _Question sets_ try to reconstruct the book quizzes, whereas _Assessments_ are collections to simulate the in-chapter and end-of-chapter exercises. My cautionary usage of the qualifying words "try" and "simulation" signals that all interactive activities of _itns-solutions_ are only my attempts to provide a similar experience as in the book. In many cases, I had to reformulate the puzzles or even to invent new statements to get a bunch of challenging distractors learners could choose. In contrast to quizzes or _Question Sets_ – where learners have similar freedoms as in other types of exercises – there are some restrictions in _Assessments_: If students want to inspect the solution of subsections they cannot retry only this part of the test, but have to repeat the whole quiz. At the end of an _Assessment_, learners will get overall feedback combined with a recommendation on how to proceed. 
+
++ **R Tutorial:** This last part of each chapter contains exercises to learn R. I have separated this part from the other chapter content as not all people want to get into the details of the R programming language.  It contains three types of material:
+
+   - There is an explicatory part showing the usage of R and its effects (Learning I). Mostly this section includes applications of the LearnR and Shiny packages.
+
+    - Another part uses the LearnR packages for stand-alone R exercises (Learning II).
+
+    - Finally, there is a section where learners will find a complete R solution to the end-of-chapter exercises. Students who have already acquired some R programming knowledge should try to solve the book exercises by themself and compare their answers with my sample solution (Learning III). 
+
+
+## Conventions used in this book {-}
 
 ## General Setup {-}
 
-### Global Options {-}
+**Global Options**
 
 
 ```{r label = "global-options", highlight=TRUE}
@@ -69,7 +149,7 @@ knitr::opts_chunk$set(
 
 ```
 
-### Installing and loading R packages {-}
+**Installing and loading R packages**
 
 
 ```{r installing-and-loading-R-packages}
@@ -123,7 +203,7 @@ if (!require("itns"))
 
 ```
 
-### Theme adaption for the graphic display with `ggplot2` {-}
+**Theme adaption for the graphic display with `ggplot2`**
 
 ```{r generate-my-own-theme}
 
