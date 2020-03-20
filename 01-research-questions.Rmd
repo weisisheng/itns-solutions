@@ -1,6 +1,6 @@
-# Asking and Answering Research Questions
+# Asking and Answering Research Questions {#chapter-01}
 
-If you prefer to use for the exercises your phone or tablet, [scan the associated QR code](qr-codes-of-exercises.html#chapter-1).
+If you prefer to use for the exercises your phone or tablet, [scan the associated QR code](qr-codes.html#chapter-1).
 
 ## Interactive Video
 

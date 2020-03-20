@@ -1,4 +1,6 @@
-# Research Fundamentals: Don't Fool Yourself
+# Research Fundamentals: Don't Fool Yourself {#chapter-02}
+
+If you prefer to use for the exercises your phone or tablet, [scan the associated QR code](qr-codes.html#chapter-2).
 
 ## Interactive Video {#chap02-video-research-fundamentals}
 

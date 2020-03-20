@@ -12,10 +12,13 @@ bookdown::gitbook:
         <li><a href="./">itns-solutions</a></li>
       after: |
         <li>Thanks for providing resources: <a href="https://icons8.com" target="blank">icons8</a></li>
-    download: ["epub", "mobi"]
+    download: ["epub"]
     edit: https://github.com/petzi53/itns-solutions/edit/master/%s
     sharing:
-      github: yes
       facebook: yes
+      github: yes
       twitter: yes
+      all: no
+    info: yes
 bookdown::epub_book: default
+

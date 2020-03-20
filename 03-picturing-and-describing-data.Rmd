@@ -1,4 +1,6 @@
-# Picturing & Describing Data: Exercises
+# Picturing & Describing Data: Exercises {#chapter-03}
+
+If you prefer to use for the exercises your phone or tablet, [scan the associated QR code](qr-codes-of-exercises.html#qr-codes-for-chapter-3).
 
 ## Interactive Video {#chap03-video-research-fundamentals}
 
