@@ -11,12 +11,11 @@ bookdown::gitbook:
       before: |
         <li><a href="./">itns-solutions</a></li>
       after: |
-        <li><a href="https://github.com/petzi53/itns-solutions" target="blank">GitHub repository</a></li>
-    download: ["pdf", "epub"]
-bookdown::pdf_book:
-  includes:
-    in_header: preamble.tex
-  latex_engine: xelatex
-  citation_package: natbib
-  keep_tex: yes
+        <li>Thanks for providing resources: <a href="https://icons8.com" target="blank">icons8</a></li>
+    download: ["epub", "mobi"]
+    edit: https://github.com/petzi53/itns-solutions/edit/master/%s
+    sharing:
+      github: yes
+      facebook: yes
+      twitter: yes
 bookdown::epub_book: default
