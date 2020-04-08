@@ -1,5 +1,5 @@
 --- 
-title: "Solutions for 'Introdcution to The New Statistics'"
+title: "Solutions for 'Introduction to The New Statistics'"
 author: "Peter Baumgartner"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
